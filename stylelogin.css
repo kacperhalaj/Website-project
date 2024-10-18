@@ -7,7 +7,7 @@
 
 body{
     display: flex;
-    background: url('nissan.jpg') no-repeat;
+    background: url('images/nissan.jpg') no-repeat;
     justify-content: center;
     align-items: center;
     min-height: 100vh;

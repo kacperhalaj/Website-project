@@ -9,7 +9,7 @@ body {
     background-color: #f4f4f4;
     color: #333;
     display: flex;
-    background: url('m3.jpg') no-repeat;
+    background: url('images/m3.jpg') no-repeat;
     align-items: center;
     min-height: 100vh;
     background-size: cover;
