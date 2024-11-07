@@ -211,6 +211,7 @@ header.shrink {
     transition: .5s;
 }
 
+.input-box input:not(:placeholder-shown) ~ label,
 .input-box input:focus~label,
 .input-box input:valid~label{
     top: -5px;
